@@ -2,6 +2,6 @@ if a<b:
 	print("a is less")
 
 else:
-	print("b is main pint to do ")
+	print("b is main pint to do in a fetch veriosn ")
 else :
 print(helo)
