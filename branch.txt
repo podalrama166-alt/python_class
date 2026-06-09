@@ -1,2 +1,5 @@
 if a<b:
 	print("a is less")
+
+else:
+	print("b is less")
